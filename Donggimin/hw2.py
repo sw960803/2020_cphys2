@@ -11,4 +11,4 @@ def 판별(a):
 
 def average(n):
     return sum(n)/len(n)
-# sum 함수를 사용하지 말라는 조건을 어김(-1)
+# sum 함수를 사용하지 말라는 조건을 어김(-2)
